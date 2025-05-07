@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![connecting(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZxdmRkeDQxOHRlMzAza2Y0eXMyamtmZDZrMG5ncjNscm83czBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TrKGDZrcugHAt2VBc/giphy.gif)
+![connecting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZxdmRkeDQxOHRlMzAza2Y0eXMyamtmZDZrMG5ncjNscm83czBoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TrKGDZrcugHAt2VBc/giphy.gif)
 <!--
 **malvinajk/malvinajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
