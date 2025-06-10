@@ -5,9 +5,11 @@
 # 🌱 I’m currently learning:
 - 100devs Software Engineering Programme,
 - p5js
+- OOP
 
 # 📌 I’m currently working on:
 - API Projects
+- OOP Projects
 
 <!--
 **malvinajk/malvinajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
