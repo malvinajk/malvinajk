@@ -6,7 +6,7 @@ A software engineer with a background in Art and Design.
 ## Projects Hightlights
 
 1. A simple portfolio website to showcase a selection of writing I completed during my MA.  
-   Technologies used: CSS3, Vanilla JavaScript.
+   Technologies used: CSS3, Vanilla JavaScript.  
    Visit the webiste: https://malvinajanasik.com/   
    Link to repo: https://github.com/malvinajk/personalwebsite  
 <img src="https://github.com/malvinajk/images/blob/main/writing-website.gif" width="50%">
