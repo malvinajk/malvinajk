@@ -12,11 +12,12 @@ A software engineer with a background in Art and Design.
 
   
 2. A responsive poetry reader page built using poetryDB.org API.  
-   Technologies used: RESTful API (PoetryDB), JavaScript Fetch API, handle JSON responses.  
+   Technologies used: RESTful API (PoetryDB), JavaScript Fetch API, handle JSON responses.
+   Visit the website here: https://malvinajk.github.io/poetry-reader/  
    Link to repo: https://github.com/malvinajk/api-projects/tree/main/poetry 
 <img src="https://github.com/malvinajk/images/blob/main/poetry-reader.gif" width="50%">
 
-3. Cocktail search application built using TheCocktailDB API.  
+4. Cocktail search application built using TheCocktailDB API.  
    Technologies used: RESTful API, JavaScript  
    Link to repo: https://github.com/malvinajk/api-projects/tree/main/drinks!
 <img src="https://github.com/malvinajk/images/blob/main/cocktailapp.gif" width="50%">
