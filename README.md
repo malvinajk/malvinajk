@@ -7,14 +7,14 @@ A software engineer with a background in Art and Design.
 
 1. A simple portfolio website to showcase a selection of writing I completed during my MA.  
    Technologies used: CSS3, Vanilla JavaScript.  
-   Visit the webiste: https://malvinajanasik.com/   
+   Visit the website: https://malvinajanasik.com/   
    Link to repo: https://github.com/malvinajk/personalwebsite  
 <img src="https://github.com/malvinajk/images/blob/main/writing-website.gif" width="50%">
 
   
 3. A responsive poetry reader page built using poetryDB.org API.  
    Technologies used: RESTful API (PoetryDB), JavaScript Fetch API, handle JSON responses.  
-   Visit the website here: https://malvinajk.github.io/poetry-reader/  
+   Visit the website: https://malvinajk.github.io/poetry-reader/  
    Link to repo: https://github.com/malvinajk/api-projects/tree/main/poetry 
 <img src="https://github.com/malvinajk/images/blob/main/poetry-reader.gif" width="50%">
 
