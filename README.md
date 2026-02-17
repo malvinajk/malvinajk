@@ -5,33 +5,33 @@ A software engineer with a background in Art and Design.
 
 ## Projects Hightlights
 
-1. A simple portfolio website to showcase a selection of writing I completed during my MA.  
-   Technologies used: CSS3, Vanilla JavaScript.  
-   Visit the website: https://malvinajanasik.com/   
-   Link to repo: https://github.com/malvinajk/personalwebsite  
-<img src="https://github.com/malvinajk/images/blob/main/writing-website.gif" width="50%">
+1. An interactive portfolio website for a client.
+   Technologies used: JavaScript, GSAP, Vite.
+   Link to repo: https://github.com/malvinajk/peggy-a-website
 
-  
-3. A responsive poetry reader page built using poetryDB.org API.  
+   <img src="https://github.com/user-attachments/assets/a32a9e16-e717-48b1-ad5c-929175e0da90" width="50%">
+
+2. A responsive poetry reader page built using poetryDB.org API.  
    Technologies used: RESTful API (PoetryDB), JavaScript Fetch API, handle JSON responses.  
    Visit the website: https://malvinajk.github.io/poetry-reader/  
-   Link to repo: https://github.com/malvinajk/api-projects/tree/main/poetry 
-<img src="https://github.com/malvinajk/images/blob/main/poetry-reader.gif" width="50%">
-
-4. Cocktail search application built using TheCocktailDB API.  
-   Technologies used: RESTful API, JavaScript  
-   Link to repo: https://github.com/malvinajk/api-projects/tree/main/drinks!
-<img src="https://github.com/malvinajk/images/blob/main/cocktailapp.gif" width="50%">
-
+   Link to repo: https://github.com/malvinajk/api-projects/tree/main/poetry
+   
+   <img src="https://github.com/malvinajk/images/blob/main/poetry-reader.gif" width="50%">
+  
+4. A simple portfolio website to showcase a selection of writing I completed during my MA.  
+   Technologies used: CSS3, Vanilla JavaScript.  
+   Visit the website: https://malvinajanasik.com/   
+   Link to repo: https://github.com/malvinajk/personalwebsite
+   
+   <img src="https://github.com/malvinajk/images/blob/main/writing-website.gif" width="50%">
 
 ## 🌱 I’m currently learning:
-- Node
-- p5js
-- OOP
+- MVC architecture pattern
+- Next.js
+- React
 
 ## 📌 I’m currently working on:
-- API Projects
-- OOP Projects
+- Interactive portfolio website for a client
 
 <!--
 **malvinajk/malvinajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
