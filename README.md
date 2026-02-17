@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Mal!
-A software engineer with a background in Art and Design.
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I1c2VsODN6YWxlaGNxZG90cG0wOGh2ZThtMTNtbXlhN3F1aDNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A0HbfqpmoEZ68I0wL/giphy.gif" width="250" height="250">
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2I1c2VsODN6YWxlaGNxZG90cG0wOGh2ZThtMTNtbXlhN3F1aDNvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A0HbfqpmoEZ68I0wL/giphy.gif" width="100" height="100">     
+A software engineer with a background in Art and Design. 
 
 ## Projects Hightlights
 
