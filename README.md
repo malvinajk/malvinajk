@@ -6,7 +6,7 @@ A software engineer with a background in Art and Design.
 
 1. An interactive portfolio website for a client.
    Technologies used: JavaScript, GSAP, Vite.
-   Link to repo: [https://github.com/malvinajk/peggy-a-website](https://github.com/malvinajk/peggy-new)
+   Link to repo: https://github.com/malvinajk/peggy-new
 
    <img src="https://github.com/user-attachments/assets/a32a9e16-e717-48b1-ad5c-929175e0da90" width="50%">
 
