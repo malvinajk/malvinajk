@@ -8,9 +8,11 @@ A software engineer with a background in Art and Design.
    Technologies used: JavaScript, GSAP, Vite.
    Link to repo: https://github.com/malvinajk/peggy-new
 
-   <img src="https://github.com/user-attachments/assets/a32a9e16-e717-48b1-ad5c-929175e0da90" width="50%">
+   ![ScreenRecording2026-03-06at23 37 47-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/249c2fc6-a30f-496e-9036-6f1d5dde4a7c)
 
-2. A responsive poetry reader page built using poetryDB.org API.  
+   ![ScreenRecording2026-03-06at23 37 47-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/4933aae1-3e9c-4ffa-baa2-d0f0a75cce86)
+
+3. A responsive poetry reader page built using poetryDB.org API.  
    Technologies used: RESTful API (PoetryDB), JavaScript Fetch API, handle JSON responses.  
    Visit the website: https://malvinajk.github.io/poetry-reader/  
    Link to repo: https://github.com/malvinajk/api-projects/tree/main/poetry
