@@ -27,12 +27,10 @@ A software engineer with a background in Art and Design.
    <img src="https://github.com/malvinajk/images/blob/main/writing-website.gif" width="50%">
 
 ## 🌱 I’m currently learning:
-- MVC architecture pattern
-- Next.js
 - React
 
 ## 📌 I’m currently working on:
-- Interactive portfolio website for a client
+- Social network app with geolocation 
 
 <!--
 **malvinajk/malvinajk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
